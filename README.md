@@ -23,7 +23,7 @@ Current focus:
 Notable project: AI-powered Cafe Analytics & Reporting System — an intelligent dashboard that combines business analytics, reporting, and AI-driven insights to help cafe owners make data-informed decisions.
 
 ## Skills & Technologies
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 java,py,cs,js,kotlin,androidstudio,spring,react,nodejs,git,github,html,css,maven,gradle,gcp,flask,firebase,figma,flutter,tensorflow,laravel,php,mysql
 
 ## Top Projects
