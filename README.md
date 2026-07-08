@@ -7,7 +7,7 @@ Tagline: Building scalable solutions with Java, Python, C#, AI technologies, and
 ## About Me
 
 
-- Name: **Calven Chow**
+- Name: **Calven Chow Kai Wen**
 - GitHub: [Calven0914](https://github.com/Calven0914)
 - Account created: **2023-08-17**
 - Public repositories: **20**
